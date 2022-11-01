@@ -72,6 +72,12 @@ h2 {
     text-align: justify;
 }
 
+.experience-sec {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 footer {
     text-align: center;
 }
